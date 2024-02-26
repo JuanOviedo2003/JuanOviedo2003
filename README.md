@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Juan Jose Oviedo Diaz</h1>
+<h1 align="center" style="backgroun-color: #fff; color=#000">Hi 👋, I'm Juan Jose Oviedo Diaz</h1>
 <h3 align="center">A passionate frontend developer from COLOMBIA</h3>
 
 <h3 align="left">Connect with me:</h3>
